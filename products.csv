@@ -1,0 +1,12 @@
+ProductID,ProductName,Category,UnitPrice,StandardCost
+P001,Laptop,Technology,52000,42640.0
+P002,Monitor,Technology,12500,9750.0
+P003,Keyboard,Technology,1800,1296.0
+P004,Printer,Technology,9800,8134.0
+P005,Office Chair,Furniture,7200,5400.0
+P006,Desk,Furniture,14500,11600.0
+P007,Bookshelf,Furniture,6800,5236.0
+P008,Notebook Pack,Office Supplies,450,306.0
+P009,Pen Set,Office Supplies,220,143.0
+P010,Paper Box,Office Supplies,650,546.0
+P011,Stapler,Office Supplies,320,224.0
